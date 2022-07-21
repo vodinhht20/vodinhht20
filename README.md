@@ -7,8 +7,8 @@
 
 <h3>🛠 Tech Stack</h3>
 
-- 💻 &nbsp; Laravel | React | Vue | Bootstrap | Jquery 
-- 🛢 &nbsp; MySQL | Firebase | Google Cloud | AWS
+- 💻 &nbsp; Laravel | React | Vue | Bootstrap | Jquery | MySQL 
+- 🛢 &nbsp; Firebase | Google Cloud | AWS
 - 🔧 &nbsp; Visual Studio code | Git
 - 🖥 &nbsp;  Adobe Photoshop
 
