@@ -16,10 +16,16 @@
 
 <h3> 🤝🏻 Connect with Me </h3>
 
-<p align="center">
+<p align="center" style="
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    grid-column-gap: 10px;
+">
   &nbsp; 
   <a href="https://www.facebook.com/vodinhht20/" target="_blank" rel="noopener noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Facebook_Logo_%282019%29.png/800px-Facebook_Logo_%282019%29.png" width="50" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Facebook_Logo_%282019%29.png/800px-Facebook_Logo_%282019%29.png" width="45" />
   </a>  
   &nbsp;
   <a href="mailto:vodinh2000ht@gmail.com" rel="noopener noreferrer">
