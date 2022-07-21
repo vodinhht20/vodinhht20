@@ -21,14 +21,15 @@
     justify-content: center;
     align-items: center;
     display: flex;
-    grid-column-gap: 10px;
+    grid-column-gap: 15px;
 ">
-  &nbsp; 
   <a href="https://www.facebook.com/vodinhht20/" target="_blank" rel="noopener noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Facebook_Logo_%282019%29.png/800px-Facebook_Logo_%282019%29.png" width="45" />
   </a>  
-  &nbsp;
   <a href="mailto:vodinh2000ht@gmail.com" rel="noopener noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/2560px-Gmail_icon_%282020%29.svg.png" width="50" />
+  </a>
+    <a href="https://www.youtube.com/channel/UCcmv3sFv1wqAYhSeyoAUjyg">
+    <img src="https://vudigital.co/wp-content/uploads/2021/12/icon-YouTube.png" width="55" />
   </a>
 </p>
