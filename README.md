@@ -17,8 +17,12 @@
 <h3> 🤝🏻 Connect with Me </h3>
 
 <p align="center">
-&nbsp; <a href="https://twitter.com/_souvik_guria" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/twitter.png" width="50" /></a>  
-&nbsp; <a href="https://www.instagram.com/the_caffeine__addict/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/instagram-new.png" width="50" /></a>  
-&nbsp; <a href="https://www.linkedin.com/in/souvik-guria-/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/linkedin.png" width="50" /></a>
-&nbsp; <a href="mailto:souvikguria98@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/gmail.png"  width="50" /></a>
+  &nbsp; 
+  <a href="https://www.facebook.com/vodinhht20/" target="_blank" rel="noopener noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Facebook_Logo_%282019%29.png/800px-Facebook_Logo_%282019%29.png" width="50" />
+  </a>  
+  &nbsp;
+  <a href="mailto:vodinh2000ht@gmail.com" rel="noopener noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/2560px-Gmail_icon_%282020%29.svg.png" width="50" />
+  </a>
 </p>
